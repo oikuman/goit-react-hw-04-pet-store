@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navBar {
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  background-color: rgb(48, 151, 177);
+  font-size: 20px;
+  padding: 10px;
+}
+
+.navItem {
+  margin: 0 10px 0;
+}
+
+.navLink {
+}
+
+.select {
+  max-width: 20%;
+  margin: 100px auto;
+}

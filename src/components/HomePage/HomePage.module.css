@@ -1,0 +1,9 @@
+.greeting {
+  color: rebeccapurple;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

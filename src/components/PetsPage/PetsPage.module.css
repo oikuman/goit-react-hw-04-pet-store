@@ -1,0 +1,36 @@
+.title {
+  color: rebeccapurple;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.item {
+  border: 1px solid rebeccapurple;
+  padding: 5px;
+  margin: 10px;
+  flex-basis: 25%;
+}
+
+.image {
+  display: block;
+  width: auto;
+  max-height: 150px;
+  margin: 0 auto;
+}
+
+.nameTitle {
+  color: rgb(122, 54, 189);
+  font-style: italic;
+  font-weight: bold;
+}
+
+.name {
+  color: rgb(52, 21, 83);
+  font-weight: bold;
+}
